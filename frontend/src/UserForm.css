@@ -1,0 +1,13 @@
+.user-container {
+  width: 400px;
+  margin: auto;
+  margin-top: 40px;
+  padding: 20px;
+  background: #fafafa;
+  border-radius: 12px;
+}
+.user-container input, button {
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0;
+}
